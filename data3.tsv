@@ -1,17 +1,12 @@
 __LAST_UPDATED__	PCLC LIONS CLUB Pantry
-__LAST_UPDATED__	2026/08/26 Updated by David Chan
+__LAST_UPDATED__	2026/09/02 Updated by David Chan
 barcode	lastname	firstname	altlastname	altfirstname	actionNote
 red-75	CHAN	DAVID A			TEST CASE RECORD
 een-41	CHAN	WOON YEE			PER SUSIE ALLOW TEMP ALT CHAO XIAN LIN FOR PICKUP
-red-21	WU	DABO	WU DABO 		is correct user HUANG MINJIN has been deactivated do not serve old client and collect card
-ple-24	QUI	SHU HUA			SWAP CARD — old alt changed to proxy
-low-17	MEI	JING YA			SWAP CARD - according to pes there is a new alt Please check client card against PES and swap if needed
-low-24	LI	NGA LAI			SWAP CARD - according to pex the client now has an alt if client card does not match PES verify and swap if needed
-low-43	MA	XINYI			VERIFICATION for PES according to PES last name for alt may be spelled incorrectly if so contact PES to fix.
-lue-43	KUANG	SONGYING			NEW CLIENT BLUE 43 (OLD CLIENT BLUE 43 WAS PARRA, CARLA WHO NEVER SHOWED UP) PLEASE ISSUE NEW CARD
-new-43	GUO	CAILI			NEW CLIENT (ALT FOR BLUE-43 KUANG SONGYING)
+lue-43	KUANG	SONGYING	GUO	CAILI	NEW CLIENT BLUE 43 (OLD CLIENT BLUE 43 WAS PARRA, CARLA WHO NEVER SHOWED UP) PLEASE ISSUE NEW CARD
 een-54	NEWTON	DARCY JOCELYN			NEW CLIENT ISSUE NEW CARD
 low-51	WROBLEWSKI	SHI FEN			NEW CLIENT WITH NEW PROXY IF CLIENT HAS CARD SWAP IF NO CARD PLEASE ISSUE
 een-52	YU	GUO JUN			NEW CLIENT ISSUE NEW CARD
 ple-47	KUANG	QI LING			NEW CLIENT ISSUE NEW CARD
-lue-50	FENG	KAREN Q			CLIENT MAY HAVE A TEMP CARD PLEASE REPLACE WITH CORRECT PRINTED CARD 			
+lue-50	FENG	KAREN Q			CLIENT MAY HAVE A TEMP CARD PLEASE REPLACE WITH CORRECT PRINTED CARD
+red-54	liao	shu	zhen		New Client Issue New Card
